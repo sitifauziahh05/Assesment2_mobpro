@@ -1,1 +1,3 @@
 # Assesment2_mobpro
+NIM : 6706210130
+NAMA : SITI FAUZIAH
