@@ -63,5 +63,15 @@ dependencies {
     implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.5.1'
     implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1'
 
+    // notif
+    implementation 'androidx.work:work-runtime-ktx:2.8.1'
+
+//    //internet
+//    implementation 'com.squareup.retrofit2:retrofit:2.x.x'
+
+
+
+
+
 
 }
